@@ -1,0 +1,26 @@
+Maximum score is: 4.0
+Alex Bell, 4.0
+Ken Jeong, 4.0
+Alysa Black, 4.0
+
+Updated score(s) with letter grade:
+Nick Talman, 3.0, C
+Mathew Mcconaughey, 2.73, D
+Alex Bell, 4.0, A
+Jack Black, 3.59, B
+Ken Jeong, 4.0, A
+Kanye West, 2.22, F
+John Wayne, 3.44, C
+Wes Chandler, 3.89, A
+Vera Cherny, 3.48, C
+Alysa Black, 4.0, A
+Jared Wofford, 2.22, F
+Izzy Morales, 2.64, D
+Kristen Stewart, 3.48, C
+Olivia Wilde, 2.22, F
+Michael Cera, 3.03, C
+Jessica Chastain, 3.89, A
+Michael Caine, 3.43, C
+Anne Hathaway, 2.49, F
+Taylor Swift, 3.59, B
+Matt Damon, 2.22, F

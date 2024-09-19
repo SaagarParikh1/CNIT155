@@ -1,0 +1,4 @@
+The number of scores in the list is 20
+The average of scores int he list is 2.96
+The Maximum score is 4.0
+The Minimum score is 1.37
